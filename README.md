@@ -21,8 +21,3 @@ advancement of computer vision systems for action recognition.
 
 
 ![image](https://user-images.githubusercontent.com/86946820/213494315-184796a9-2622-4c89-bb08-c5d51e390376.png)
-
-
-
-
-[Thesis Poster.pdf](https://github.com/Smukhop/Exam-Interview-Monitering-/files/10458652/Thesis.Poster.pdf)
